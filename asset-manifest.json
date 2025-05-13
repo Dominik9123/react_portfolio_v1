@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/react_portfolio_v1/static/css/main.0130250c.css",
+    "main.js": "/react_portfolio_v1/static/js/main.477a0100.js",
+    "static/js/453.41811d64.chunk.js": "/react_portfolio_v1/static/js/453.41811d64.chunk.js",
+    "static/media/coursera_final_crt.pdf": "/react_portfolio_v1/static/media/coursera_final_crt.dccb750e2503286ec67c.pdf",
+    "static/media/project2.jpg": "/react_portfolio_v1/static/media/project2.f175c03a56331ebb149d.jpg",
+    "static/media/certyfikat_responsive.jpg": "/react_portfolio_v1/static/media/certyfikat_responsive.1d0abc9610c3ec7498f6.jpg",
+    "static/media/coursera_final_crt.jpg": "/react_portfolio_v1/static/media/coursera_final_crt.2fc8cbe44e6ec3fbf871.jpg",
+    "static/media/certyfikat_Csharp.jpg": "/react_portfolio_v1/static/media/certyfikat_Csharp.1af8e3154a377d851a0a.jpg",
+    "static/media/project3.jpg": "/react_portfolio_v1/static/media/project3.ea7aed62d41ba48c87da.jpg",
+    "static/media/certyfikat_responsive.pdf": "/react_portfolio_v1/static/media/certyfikat_responsive.1708f4cfecf2603f2368.pdf",
+    "static/media/certyfikat_Csharp.pdf": "/react_portfolio_v1/static/media/certyfikat_Csharp.a635d70087322f46d89c.pdf",
+    "static/media/project1.jpg": "/react_portfolio_v1/static/media/project1.dd6a5b15c0eb16129526.jpg",
+    "static/media/slick.svg": "/react_portfolio_v1/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/react_portfolio_v1/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/react_portfolio_v1/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/react_portfolio_v1/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/react_portfolio_v1/index.html",
+    "main.0130250c.css.map": "/react_portfolio_v1/static/css/main.0130250c.css.map",
+    "main.477a0100.js.map": "/react_portfolio_v1/static/js/main.477a0100.js.map",
+    "453.41811d64.chunk.js.map": "/react_portfolio_v1/static/js/453.41811d64.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0130250c.css",
+    "static/js/main.477a0100.js"
+  ]
+}
