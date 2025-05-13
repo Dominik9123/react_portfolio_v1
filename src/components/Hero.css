@@ -1,0 +1,83 @@
+.hero {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    height: 75vh;
+    color: white;
+
+}
+
+
+/*  Efekt wejścia tekstu */
+.hero-content {
+    opacity: 0;
+    transform: translateY(20px);
+    animation: fadeIn 1.5s ease-in-out forwards;
+}
+
+
+/*  Dynamiczne podkreślenie nagłówka */
+.hero h1 {
+    position: relative;
+    font-size: 30px;
+    font-weight: bold;
+    margin-bottom: 10px;
+    text-shadow: 2px 2px 5px gray;
+}
+
+.hero h1::after {
+    content: "";
+    position: absolute;
+    width: 0;
+    height: 3px;
+    background: #00aaff;
+    bottom: -5px;
+    left: 50%;
+    transition: width 0.4s ease-in-out, left 0.4s ease-in-out;
+}
+
+.hero h1:hover::after {
+    width: 100%;
+    left: 0;
+}
+
+/*  Stylizacja opisu */
+.hero p {
+    font-size: 20px;
+    opacity: 0.9;
+}
+
+
+
+
+/*  Animacja dynamicznego gradientu */
+@keyframes gradientAnimation {
+    0% {
+        background-position: 0% 50%;
+    }
+    50% {
+        background-position: 100% 50%;
+    }
+    100% {
+        background-position: 0% 50%;
+    }
+}
+
+/*  Animacja subtelnego pulsowania gradientu */
+@keyframes pulseBackground {
+    0% { filter: brightness(1); }
+    50% { filter: brightness(1.2); }
+    100% { filter: brightness(1); }
+}
+
+@keyframes fadeIn {
+    0% {
+        opacity: 0;
+        transform: translateY(20px);
+    }
+    100% {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
