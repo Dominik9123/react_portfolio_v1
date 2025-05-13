@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/react_portfolio_v1/static/css/main.0130250c.css",
-    "main.js": "/react_portfolio_v1/static/js/main.477a0100.js",
+    "main.js": "/react_portfolio_v1/static/js/main.c5e22803.js",
     "static/js/453.41811d64.chunk.js": "/react_portfolio_v1/static/js/453.41811d64.chunk.js",
     "static/media/coursera_final_crt.pdf": "/react_portfolio_v1/static/media/coursera_final_crt.dccb750e2503286ec67c.pdf",
     "static/media/project2.jpg": "/react_portfolio_v1/static/media/project2.f175c03a56331ebb149d.jpg",
@@ -18,11 +18,11 @@
     "static/media/slick.woff": "/react_portfolio_v1/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/react_portfolio_v1/index.html",
     "main.0130250c.css.map": "/react_portfolio_v1/static/css/main.0130250c.css.map",
-    "main.477a0100.js.map": "/react_portfolio_v1/static/js/main.477a0100.js.map",
+    "main.c5e22803.js.map": "/react_portfolio_v1/static/js/main.c5e22803.js.map",
     "453.41811d64.chunk.js.map": "/react_portfolio_v1/static/js/453.41811d64.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.0130250c.css",
-    "static/js/main.477a0100.js"
+    "static/js/main.c5e22803.js"
   ]
 }
