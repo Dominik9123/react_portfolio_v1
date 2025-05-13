@@ -17,13 +17,13 @@ const projects = [
   name: "Developer Portfolio",
   image: project1Image,
   link: "https://github.com/Dominik9123/react_portfolio",
-  website: "https://github.com/Dominik9123/szkieletor",
+  website: "https://dominik9123.github.io/react_portfolio_v1/",
 },
 {
   name: "Finanse Tracker",
   image: project3Image,
   link: "https://github.com/Dominik9123/finance-tracker",
-  website: "https://github.com/Dominik9123/szkieletor",
+  website: "https://dominik9123.github.io/finance-tracker/",
 },
 ];
 
